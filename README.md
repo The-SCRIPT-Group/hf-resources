@@ -48,14 +48,14 @@ https://hacktober-xrepos.netlify.com/
 
 
 
-> The SCRIPT Group: https://thescriptgroup.in
+> *The SCRIPT Group:* https://thescriptgroup.in
 >
-> Event signup page: https://thescriptgroup.herokuapp.com
+> *Event signup page*: https://thescriptgroup.herokuapp.com
 >
-> Contact:
+> ***Contact:***
 >
 > https://chat.whatsapp.com/Jfemm40WxgnHd1wLYag0it
 >
 > https://t.me/thescriptgroup
 >
-> [mailto:support@thescriptgroup.in]()
+> Email: support@thescriptgroup.in
