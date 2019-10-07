@@ -1,6 +1,11 @@
-## Resources for Hacktoberfest 2019 
+## Resources for Hacktoberfest 2019
 
-![](https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg)
+##  
+
+<p align="center">
+  <img width="600" height="200" src="https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg">
+</p>
+
 
 
 
