@@ -12,9 +12,9 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 
 
 
-**Github:** https://github.com
+**Github:** [https://github.com](https://github.com)
 
-**Hacktoberfest:** https://hacktoberfest.digitalocean.com/
+**Hacktoberfest:** [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 
 
