@@ -22,25 +22,27 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 
 
 
-**Visualising Git:** http://git-school.github.io/visualizing-git/
+**Visualising Git:**
+
+[http://git-school.github.io/visualizing-git/](http://git-school.github.io/visualizing-git/)
 
 
 
 **Repos with open issues (Hacktoberfest marked):**
 
-https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues
+[https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 
 
 
 **Swag from other companies:**
 
-https://hacktoberfestswaglist.com
+[https://hacktoberfestswaglist.com](https://hacktoberfestswaglist.com)
 
 
 
 **Repos banned:**
 
-https://hacktober-xrepos.netlify.com/
+[https://hacktober-xrepos.netlify.com/](https://hacktober-xrepos.netlify.com/)
 
 
 
@@ -48,14 +50,15 @@ https://hacktober-xrepos.netlify.com/
 
 
 
-> *The SCRIPT Group:* https://thescriptgroup.in
+> *The SCRIPT Group:* [https://thescriptgroup.in](https://thescriptgroup.in)
 >
-> *Event signup page*: https://thescriptgroup.herokuapp.com
+> *Event signup page*: [https://thescriptgroup.herokuapp.com](https://thescriptgroup.herokuapp.com)
 >
 > ***Contact:***
 >
-> https://chat.whatsapp.com/Jfemm40WxgnHd1wLYag0it
+> [Whatsapp](https://chat.whatsapp.com/Jfemm40WxgnHd1wLYag0it)
 >
-> https://t.me/thescriptgroup
+> [Telegram](https://t.me/thescriptgroup)
 >
-> Email: support@thescriptgroup.in
+> [Email](mailto:support@thescriptgroup.in)
+
