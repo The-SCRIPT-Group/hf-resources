@@ -20,35 +20,35 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 
 ------
 
-
+&nbsp;
 
 **Visualising Git:**
 
 [http://git-school.github.io/visualizing-git/](http://git-school.github.io/visualizing-git/)
 
-
+&nbsp;
 
 **Repos with open issues (Hacktoberfest marked):**
 
 [https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 
-
+&nbsp;
 
 **Swag from other companies:**
 
 [https://hacktoberfestswaglist.com](https://hacktoberfestswaglist.com)
 
-
+&nbsp;
 
 **Repos banned:**
 
 [https://hacktober-xrepos.netlify.com/](https://hacktober-xrepos.netlify.com/)
 
-
+&nbsp;
 
 ------
 
-
+&nbsp;
 
 > *The SCRIPT Group:* [https://thescriptgroup.in](https://thescriptgroup.in)
 >
@@ -61,4 +61,3 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 > [Telegram](https://t.me/thescriptgroup)
 >
 > [Email](mailto:support@thescriptgroup.in)
-
