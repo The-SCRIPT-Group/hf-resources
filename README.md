@@ -12,9 +12,13 @@ The S.C.R.I.P.T Group brings to you  Hacktoberfest 2019, presented by DigitalOce
 
 We've compiled a few resources here, which might be useful in our workshop on 16th and 17th September:
 
+&nbsp;
+
 ------
 
+### Stage 0: Sign-Up everywhere
 
+&nbsp;
 
 **Github:** [https://github.com](https://github.com)
 
@@ -24,11 +28,31 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 
 ------
 
+### Stage 1: Learn Git/Hub
+
 &nbsp;
 
 **Visualising Git:**
 
 [http://git-school.github.io/visualizing-git/](http://git-school.github.io/visualizing-git/)
+
+&nbsp;
+
+**Git Documentation:**
+
+[https://git-scm.com/docs](https://git-scm.com/docs)
+
+&nbsp;
+
+**Git Cheat Sheet:**
+
+[Cheat Sheet PDF](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+
+&nbsp;
+
+------
+
+### Stage 2: Make PRs
 
 &nbsp;
 
