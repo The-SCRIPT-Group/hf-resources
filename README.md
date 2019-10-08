@@ -22,7 +22,7 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 
 &nbsp;
 
-**Github:** [https://github.com](https://github.com)
+**GitHub:** [https://github.com](https://github.com)
 
 **Hacktoberfest:** [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
@@ -34,9 +34,15 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 
 &nbsp;
 
-**Visualising Git:**
+**Visualizing Git:**
 
 [http://git-school.github.io/visualizing-git/](http://git-school.github.io/visualizing-git/)
+
+&nbsp;
+
+**Git Workflow in 1 page:**
+
+[https://learnxinyminutes.com/docs/git/](https://learnxinyminutes.com/docs/git/)
 
 &nbsp;
 
@@ -49,6 +55,12 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 **Git Cheat Sheet:**
 
 [Cheat Sheet PDF](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+
+&nbsp;
+
+**GitHub Hello World:**
+
+[Getting started with GitHub](https://guides.github.com/activities/hello-world/)
 
 &nbsp;
 
