@@ -24,7 +24,7 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 
 **Hacktoberfest:** [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-
+&nbsp;
 
 ------
 
