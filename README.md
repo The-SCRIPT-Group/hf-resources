@@ -8,6 +8,8 @@
 
 ## Resources for Hacktoberfest 2019
 
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+
 The S.C.R.I.P.T Group brings to you  Hacktoberfest 2019, presented by DigitalOcean and DEV!
 
 We've compiled a few resources here, which might be useful in our workshop on 16th and 17th September:
