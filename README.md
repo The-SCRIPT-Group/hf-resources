@@ -54,7 +54,7 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 
 **Git Cheat Sheet:**
 
-[Cheat Sheet PDF](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+[Cheat Sheet PDF](https://github.com/The-SCRIPT-Group/hf-resources/blob/master/resources/TSG-Git-Cheat-Sheet.pdf)
 
 &nbsp;
 
@@ -67,6 +67,10 @@ We've compiled a few resources here, which might be useful in our workshop on 16
 ------
 
 ### Stage 2: Make PRs
+
+PRs to any valid GitHub repository is allowed!
+
+ It can be to your own repos as well.
 
 &nbsp;
 
