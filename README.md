@@ -74,6 +74,13 @@ PRs to any valid GitHub repository is allowed!
 
 &nbsp;
 
+| Repository 1 (TSG Primary)                          | Repository 2 (TSG Secondary)                        |
+| --------------------------------------------------- | --------------------------------------------------- |
+| [Assignment 1](https://github.com/the-script-group) | [Assignment 3](https://github.com/the-script-group) |
+| [Assignment 2](https://github.com/the-script-group) | [Assignment 4](https://github.com/the-script-group) |
+
+&nbsp;
+
 **Repos with open issues (Hacktoberfest marked):**
 
 [https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
