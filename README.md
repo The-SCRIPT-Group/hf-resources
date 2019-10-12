@@ -12,7 +12,7 @@
 
 The S.C.R.I.P.T Group brings to you  Hacktoberfest 2019, presented by DigitalOcean and DEV!
 
-We've compiled a few resources here, which might be useful in our workshop on 16th and 17th September:
+We've compiled a few useful resources here, for our workshop on 16th and 17th September:
 
 &nbsp;
 
@@ -74,10 +74,10 @@ PRs to any valid GitHub repository is allowed!
 
 &nbsp;
 
-| Repository 1 (TSG Primary)                          | Repository 2 (TSG Secondary)                                 |
-| --------------------------------------------------- | ------------------------------------------------------------ |
-| [Assignment 1](https://github.com/the-script-group) | [Assignment 3](https://github.com/tsgagain/group2-assignment) |
-| [Assignment 2](https://github.com/the-script-group) | [Assignment 4](https://github.com/tsgagain/group2-assignment) |
+| Repository 1 (TSG Primary)                                   | Repository 2 (TSG Secondary)                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Assignment 1](https://github.com/The-SCRIPT-Group/group1-assignment) | [Assignment 3](https://github.com/tsgagain/group2-assignment) |
+| [Assignment 2](https://github.com/The-SCRIPT-Group/group1-assignment) | [Assignment 4](https://github.com/tsgagain/group2-assignment) |
 
 &nbsp;
 
@@ -102,6 +102,15 @@ PRs to any valid GitHub repository is allowed!
 ------
 
 &nbsp;
+
+| Maintainers for this project | [Contact for emergencies] XD                                |
+| ---------------------------- | ----------------------------------------------------------- |
+| Akhil Narang                 | [Github](https://github.com/akhilnarang) ; akhilnarang      |
+| Ritom Gupta                  | [Github](https://github.com/rittmang) ; rittmang            |
+| Kshitish Deshpande           | [Github](https://github.com/ksdfg) ; ksdfg                  |
+| Aniket Raj                   | [Github](https://github.com/aniket-spidey/) ; aniket-spidey |
+
+
 
 > *The SCRIPT Group:* [https://thescriptgroup.in](https://thescriptgroup.in)
 >
