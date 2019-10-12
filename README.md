@@ -74,10 +74,10 @@ PRs to any valid GitHub repository is allowed!
 
 &nbsp;
 
-| Repository 1 (TSG Primary)                          | Repository 2 (TSG Secondary)                        |
-| --------------------------------------------------- | --------------------------------------------------- |
-| [Assignment 1](https://github.com/the-script-group) | [Assignment 3](https://github.com/the-script-group) |
-| [Assignment 2](https://github.com/the-script-group) | [Assignment 4](https://github.com/the-script-group) |
+| Repository 1 (TSG Primary)                          | Repository 2 (TSG Secondary)                                 |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| [Assignment 1](https://github.com/the-script-group) | [Assignment 3](https://github.com/tsgagain/group2-assignment) |
+| [Assignment 2](https://github.com/the-script-group) | [Assignment 4](https://github.com/tsgagain/group2-assignment) |
 
 &nbsp;
 
