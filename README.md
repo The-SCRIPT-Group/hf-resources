@@ -103,12 +103,12 @@ PRs to any valid GitHub repository is allowed!
 
 &nbsp;
 
-| Maintainers for this project | [Contact for emergencies] XD                                |
-| ---------------------------- | ----------------------------------------------------------- |
-| Akhil Narang                 | [Github](https://github.com/akhilnarang) ; akhilnarang      |
-| Ritom Gupta                  | [Github](https://github.com/rittmang) ; rittmang            |
-| Kshitish Deshpande           | [Github](https://github.com/ksdfg) ; ksdfg                  |
-| Aniket Raj                   | [Github](https://github.com/aniket-spidey/) ; aniket-spidey |
+| Maintainers for this project | [Contact for emergencies] XD                                 |
+| ---------------------------- | ------------------------------------------------------------ |
+| Akhil Narang                 | [akhilnarang](https://github.com/akhilnarang) ; akhilnarang.1999@gmail.com |
+| Ritom Gupta                  | [rittmang](https://github.com/rittmang) ; ritomgupta99@gmail.com |
+| Kshitish Deshpande           | [ksdfg](https://github.com/ksdfg) ; ksdfg123@gmail.com       |
+| Aniket Raj                   | [aniket-spidey](https://github.com/aniket-spidey/) ; aniketronaldo10@gmail.com |
 
 
 
