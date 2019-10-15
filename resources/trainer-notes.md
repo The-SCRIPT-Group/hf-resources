@@ -1,3 +1,5 @@
+#Open the ppt first, these are just a few liners for what to do in the ppt
+
 What is a VCS?
 A version control system is a software to manage a project by having all the different versions of your files saved
 Some examples are git, mercurial (hg), subversion (svn)
