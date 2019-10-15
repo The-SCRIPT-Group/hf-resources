@@ -10,9 +10,13 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 
+&nbsp;
+
 The S.C.R.I.P.T Group brings to you  Hacktoberfest 2019, presented by DigitalOcean and DEV!
 
-We've compiled a few useful resources here, for our workshop on 16th and 17th September:
+We've compiled a few useful resources here, for our workshop on 16th and 17th September. 
+
+> Please use *"Open in New Tab"* for opening every link.
 
 &nbsp;
 
@@ -68,6 +72,8 @@ We've compiled a few useful resources here, for our workshop on 16th and 17th Se
 
 ### Stage 2: Make PRs
 
+&nbsp;
+
 PRs to any valid GitHub repository is allowed!
 
  It can be to your own repos as well.
@@ -101,6 +107,16 @@ PRs to any valid GitHub repository is allowed!
 
 ------
 
+### Stage 3: Feedback
+
+&nbsp;
+
+[Fill this Google form](https://forms.gle/hkB543QUQ2iqgJRC7)
+
+&nbsp;
+
+------
+
 &nbsp;
 
 | Maintainers for this project | [Contact for emergencies] XD                                 |
@@ -110,7 +126,7 @@ PRs to any valid GitHub repository is allowed!
 | Kshitish Deshpande           | [ksdfg](https://github.com/ksdfg) ; ksdfg123@gmail.com       |
 | Aniket Raj                   | [aniket-spidey](https://github.com/aniket-spidey/) ; aniketronaldo10@gmail.com |
 
-
+&nbsp;
 
 > *The SCRIPT Group:* [https://thescriptgroup.in](https://thescriptgroup.in)
 >
