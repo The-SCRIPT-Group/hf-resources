@@ -1,4 +1,6 @@
-# Open the ppt first, these are just a few liners for what to do in the ppt
+# Open the ppt first, these are just a few liners for what to do in the ppt #
+
+-------------------------------------------------------------------------------------------------------------------------
 
 What is a VCS?
 A version control system is a software to manage a project by having all the different versions of your files saved
@@ -7,51 +9,204 @@ Some examples are git, mercurial (hg), subversion (svn)
 What is git?
 git is a VCS developed by Linus Torvalds for the development of the Linux Kernel, in 2005
 
+-------------------------------------------------------------------------------------------------------------------------
+
+# draw on board maybe, thoda theory time. Now taking content from learnxiny #
+
+-------------------------------------------------------------------------------------------------------------------------
+
 What is a repository?
 Basically another name for a project
 A repository can have as many files/folders as you want
 All git data is stored in repositories
 
-git commands - 
+A git repository is comprised of the .git directory & working directory.
+
+.git directory
+Basically a folder on your computer that stores all info related to git
+Don't mess with it pls... unless you know what you're doing
+
+working directory
+The folders and files in your project. 
+The stuff that matters to you, and whose snapshots we're gonna be saving with git.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Switch to terminal, stuff is practical here. If you see a command, you are to make the students run it #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+git help -- your best friend
+
 git config -- setting name and email
+
+make a new folder in terminal and cd to it
 git init -- initializing a repository
-make some files, add only some
-git status (showing files unstaged, staged)
-git diff (, git diff --cached)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Switch to ppt, explain workflow #
+
+-------------------------------------------------------------------------------------------------------------------------
+
 What is a commit?
-Basically like a save
+like a save
 Can also consider it a snapshot of various states in your git repository
 Can by identified by its unique hash
 
-Make a commit
-Browse directory at previous commit
-Git status at bash
+Stages of Git
+    Modified - Changes have been made to a file but file has not been committed to Git Database yet
+    Staged - Marks a modified file to go into your next commit snapshot
+    Committed - Files have been committed to the Git Database
 
-git commit (Explain -a, -m flags)
-(Create a few commits to get a small log to work on)
-git log (Show some flags like --author, --committer, --oneline)
-git show (git show to show current HEAD, git show <sha> to show a certain commit)
-git revert
-git reset
-git checkout
+Basically we 
+edit the file in the repo -> 
+add (kinda like saving the changes in that file) -> 
+commit (save current state of repo as the saved snapshot)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Switch back to terminal, it's time to make stuff #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+make 2 files - yes.txt and no.txt
+write some shit in them
+
+git add -- add files to the staging area/index
+add only yes.txt, not no.txt
+
+Now to delve into how to check what is in staging area and what ain't
+git status (showing files unstaged, staged)
+git diff (, git diff --cached)
+
+Make a commit
+git commit -- commit current state of your working directory (Explain -a, -m flags)
+git status to see what happens after commit
+
+make some more changes in yes.txt
+git add --all
+commit again
+
+git log (Show some flags like --author, --committer)
+git revert -- just revert that last commit
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Back to the board, it's drawing time #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+What is branch?
+Sorta an alternate reality version of your repo
+Like a bizzaro repo (too much dc reference?)
+You can make changes to a branch without it affecting the "master" version
+Awesome to test out new changes, and then update the "master" once they've been tested
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Go to terminal, we're gonna make some branches to create yggdrasil #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+git branch -- show all current branches
+
+want to make a new branch? check that shit out! Let's make valhalla (pls name the branch valhalla I'm begging you)
+git checkout -- shift to a branch, makes one if it doesn't exist
+
+make some changes in the text files, add, commit
+then checkout to master, show how nothing's happened here. If you want, go back to valhalla and show that it's really 2 diff versions.
+
+git merge -- merge changes from external branch into current one
+merge valhalla into master
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# GitHub time! lets go online #
+
+-------------------------------------------------------------------------------------------------------------------------
 
 Tell them about services like github, gitlab, etc.
-Then make sure everyone has a github account, and show them how to create a repository and push
-Then show them how they can view the log in the commits tab, check what a commit changed, etc.
-How to edit and commit files online directly.
-How to clone a repository from github or pull into an existing local repository
 
-ksdfg:
-make a repo online
-what a remote is
-  Basically another name for a project
-  A repository can have multiple files
-push repo on hub
-add files, upload files
-commit history, browse files at previous commit
-pull repo onto bash
-go to hub, make a branch, make some change
-pull repo first, show no branch in git branch, then pull branch
-go to github, start a pull request from branch
-clone - bash guys: revert commit
-fork me and make a pull request
+Make sure everyone has a github account, cuz only 1% will have lol
+show them how to create a repository - make an empty repo (no readme for now, we're gonna push mona here)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Back to terminal, let's push yggdrasil (that's what I'm calling the repo now :3) #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+what you just made in prev step is a remote repository. Explain what a remote repo is.
+now to add the repo
+git remote -- show all remotes
+git remote add -- add the remote url
+name it origin (standard) or mona (standard joke that shows how low the level of script humour is)
+git push -- send local changes to remote repo
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Get back to GitHub, we gonna explore #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Then show them :
+how they can view the log in the commits tab, check what a commit changed, etc.
+how to edit and commit files online directly.
+how to make a new branch online. we won't merge it now, pull requests later. (online, duh)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Now to get stuff from browser to terminal - go back to terminal pls #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+git pull -- opp of push obvio. send changes from remote to local.
+
+pull - push different branches and see.
+if we have time, push and pull maybe two-three changes.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# I'm hungry, so let's get a fork. Back to GitHub #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+What is a fork
+Why fork
+How awesome open source is yo
+
+Now to fork some delicious assignments!
+Have them fork our assignments repo onto their accounts.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Back to terminal! I know this is gonna give whiplash, maybe this entire document is a waste of time and effort like me #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+We gonna make a mewtwo! Clone the forked repo we made earlier.
+git clone -- clones a remote repo locally
+try NOT to clone this new repo INSIDE THE OLD ONE.
+
+now have them do assignment 1 - literally just change the markdown tag (lol rittmang) to their username.
+push!!!
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Finally, what we need for the goodies #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+What is a pull request
+make the pull request from their fork to our repo.
+
+Now repeat 3x. Congrats, you hopefully gonna get some stickers and a shirt that fits.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+# Tell everyone to get lost and go home #
+
+-------------------------------------------------------------------------------------------------------------------------
+
+
