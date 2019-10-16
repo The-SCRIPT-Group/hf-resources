@@ -1,5 +1,18 @@
 -------------------------------------------------------------------------------------------------------------------------
 
+# Open hacktoberfest.thescriptgroup.in, which basically has the links to every damn thing
+
+-------------------------------------------------------------------------------------------------------------------------
+In Stage 0
+Make an account on GitHub (show 'em the process), and then signup on hacktoberfest.digitalocean.com.
+
+(Show 'em the profile page, which currently should be blank if no PRs yet)
+
+In Stage 1
+Everyone has the cheat sheet? Have a look.
+
+-------------------------------------------------------------------------------------------------------------------------
+
 # Open the ppt first, these are just a few liners for what to do in the ppt #
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -13,7 +26,7 @@ git is a VCS developed by Linus Torvalds for the development of the Linux Kernel
 
 -------------------------------------------------------------------------------------------------------------------------
 
-# draw on board maybe, thoda theory time. Now taking content from learnxiny #
+# thoda theory time. Now taking content from learnxiny #
 
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -95,43 +108,7 @@ git revert -- just revert that last commit
 
 -------------------------------------------------------------------------------------------------------------------------
 
-# Back to the board, it's drawing time #
-
--------------------------------------------------------------------------------------------------------------------------
-
-What is branch?
-Sorta an alternate reality version of your repo
-Like a bizzaro repo (too much dc reference?)
-You can make changes to a branch without it affecting the "master" version
-Awesome to test out new changes, and then update the "master" once they've been tested
-
--------------------------------------------------------------------------------------------------------------------------
-
-# Go to terminal, we're gonna make some branches to create yggdrasil #
-
--------------------------------------------------------------------------------------------------------------------------
-
-git branch -- show all current branches
-
-want to make a new branch? check that shit out! Let's make valhalla (pls name the branch valhalla I'm begging you)
-git checkout -- shift to a branch, makes one if it doesn't exist
-
-make some changes in the text files, add, commit
-then checkout to master, show how nothing's happened here. If you want, go back to valhalla and show that it's really 2 diff versions.
-
-git merge -- merge changes from external branch into current one
-merge valhalla into master
-
--------------------------------------------------------------------------------------------------------------------------
-
-# GitHub time! lets go online #
-
--------------------------------------------------------------------------------------------------------------------------
-
-Tell them about services like github, gitlab, etc.
-
-Make sure everyone has a github account, cuz only 1% will have lol
-show them how to create a repository - make an empty repo (no readme for now, we're gonna push mona here)
+# Back to GitHub, make an empty repo, add that as remote and stuff
 
 -------------------------------------------------------------------------------------------------------------------------
 
@@ -165,9 +142,6 @@ how to make a new branch online. we won't merge it now, pull requests later. (on
 
 git pull -- opp of push obvio. send changes from remote to local.
 
-pull - push different branches and see.
-if we have time, push and pull maybe two-three changes.
-
 -------------------------------------------------------------------------------------------------------------------------
 
 # I'm hungry, so let's get a fork. Back to GitHub #
@@ -179,36 +153,28 @@ Why fork
 How awesome open source is yo
 
 Now to fork some delicious assignments!
-Have them fork our assignments repo onto their accounts.
 
 -------------------------------------------------------------------------------------------------------------------------
 
-# Back to terminal! I know this is gonna give whiplash, maybe this entire document is a waste of time and effort like me #
+Go to Assignment 1, and click edit (auto-forks to account), and do assignment 1
+now have them do assignment 1 - literally just change the markdown tag (lol rittmang. Sorry ksdfg.) to their username.
 
--------------------------------------------------------------------------------------------------------------------------
-
-We gonna make a mewtwo! Clone the forked repo we made earlier.
-git clone -- clones a remote repo locally
-try NOT to clone this new repo INSIDE THE OLD ONE.
-
-now have them do assignment 1 - literally just change the markdown tag (lol rittmang) to their username.
-push!!!
+Propose file changes, checks ability to merge, make new pull request. akhil sits and merges lol.
 
 -------------------------------------------------------------------------------------------------------------------------
 
 # Finally, what we need for the goodies #
 
 -------------------------------------------------------------------------------------------------------------------------
+Do Assignment 2,3?,4
 
 What is a pull request
 make the pull request from their fork to our repo.
 
-Now repeat 3x. Congrats, you hopefully gonna get some stickers and a shirt that fits.
+Now repeat 3x. Congrats, you hopefully gonna get some stickers and a shirt that fits. Maybe yes. Maybe no.
 
 -------------------------------------------------------------------------------------------------------------------------
 
-# Tell everyone to get lost and go home #
+# Tell everyone to get going and return our laptops #
 
 -------------------------------------------------------------------------------------------------------------------------
-
-
