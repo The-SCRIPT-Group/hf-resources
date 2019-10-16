@@ -111,7 +111,9 @@ PRs to any valid GitHub repository is allowed!
 
 &nbsp;
 
-[Fill this Google form](https://forms.gle/hkB543QUQ2iqgJRC7)
+[16th Feedback Form](https://forms.gle/hkB543QUQ2iqgJRC7)
+
+[17th Feedback Form](https://forms.gle/N4PYR1FW8QB5jqvE7)
 
 &nbsp;
 
